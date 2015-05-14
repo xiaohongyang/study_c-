@@ -1,0 +1,10 @@
+fdsfdsfdsfdsf
+
+class Person{
+
+	private String name{
+		get;
+		set;
+	}
+
+}
